@@ -1,2 +1,4 @@
+
 // i am from master
-alert("hello")
+console.log("hello")
+
